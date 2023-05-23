@@ -1,6 +1,5 @@
 # Mori062 Developer 👨‍💻
 <h3 align="center">A Student && Developer from Japan</h3>
-Kogakuin Univ student(1st year master's).
 
 ### My status
 
