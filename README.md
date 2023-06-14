@@ -8,4 +8,4 @@
 ![time_card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mori062&theme=nord_bright&utcOffset=9)
 
 
-[![shmorish's 42 stats](https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/stats?cursusId=21&coalitionId=310)](https://github.com/JaeSeoKim/badge42)
+[![shmorish's 42 stats](https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/stats?cursusId=21&coalitionId=310)](https://github.com/Mori062/42)
