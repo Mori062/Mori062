@@ -10,15 +10,16 @@
 </p>
 <h3>42status</h3>
 <p align="center">
-	<a href="https://github.com/JaeSeoKim/badge42">
+	<a href="https://github.com/Mori062/42">
 		<img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/stats?cursusId=9&coalitionId=61" alt="shmorish's 42 stats" width="400px" />	
 	</a>
-	<a href="https://github.com/JaeSeoKim/badge42">
+	<a href="https://github.com/Mori062/42">
 		<img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/stats?cursusId=21&coalitionId=310" alt="shmorish's 42 stats" width="400px" />
 	</a>	
-</p>
+<!-- </p>
 <p align="center">
 	<a href="https://github.com/Mori062/42">
 		Please click here to see the details!
 	</a>
 </p>
+ -->
